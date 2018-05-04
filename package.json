@@ -1,0 +1,17 @@
+{
+  "name": "gulp-env",
+  "version": "1.0.0",
+  "description": "Simple Gulp Environment",
+  "author": "binoopmj",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-rimraf": "^0.2.2",
+    "gulp-sass": "^3.1.0",
+    "http-server": "0.10.0"
+  }
+}
