@@ -1,3 +1,7 @@
+/**
+ * @author Binoop M J <binoopmdvr@gmail.com>
+ */
+
 //gulpfile.js
 
 var gulp = require('gulp'),
